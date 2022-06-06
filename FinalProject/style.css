@@ -1,0 +1,140 @@
+.nav-back {
+  background-color: rgba(145, 107, 191, 0.9);
+}
+.navbar-brand {
+  color: #000;
+}
+.navbar-brand:hover {
+  color: #ffff;
+  font-weight: bold;
+}
+.nav-link {
+  color: #000;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.nav-link:hover {
+  color: #ffff;
+  /* border: 1px solid black;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px;
+    transition: 0.25; */
+}
+.navbar-toggler-icon {
+  background: url("./images/favicon.png") center;
+  background-size: cover;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: rgba(61, 44, 141, 0.4);
+}
+/* imaginea principala */
+#hero {
+  width: 100%;
+  height: 80vh;
+  background: url("./images/hero.webp") center;
+  background-size: cover;
+}
+#hero a {
+  text-decoration: none;
+}
+#hero .container {
+  padding-top: 80px;
+}
+#hero:before {
+  content: "";
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 85.4vh;
+}
+#hero h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 56px;
+  color: #ffff;
+}
+#hero h2 {
+  color: #ffff;
+  margin-bottom: 40px;
+  font-size: 15px;
+  font-weight: light;
+  letter-spacing: 0.5px;
+}
+.main-btn {
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #ffff;
+  color: #ffff;
+}
+.main-btn:hover {
+  background: rgba(145, 107, 191, 0.9);
+  border: 2px solid rgba(145, 107, 191, 0.9);
+  text-decoration: none;
+  color: #ffff;
+}
+
+
+/* MODAL */
+#name{
+  margin-left: 11px;
+}
+#email{
+  margin-left: 15px
+}
+.modal-header{
+  background-color: #916bbf;
+}
+ .modal-body{
+ background-color:rgba(61, 44, 141, 0.4);
+} 
+.btn-Trimite{
+  float: right;
+  background-color: #916bbf;
+  width: 100px;
+  border-radius: 50px;
+}
+/* SECTIUNEA SERVICII */
+.servicii {
+  text-align: center;
+  padding: 70px 20px 80px 20px;
+  background: rgba(61, 44, 141, 0.4);
+}
+.servicii h4 {
+  margin: 10px 0 15px 0;
+  font-weight: bold;
+  font-size: 22px;
+}
+/* SECTIUNEA DESPRE NOI */
+
+.about-section{
+  text-align: center;
+  padding: 70px 20px 80px 20px;
+  background: rgba(61, 44, 141, 0.4);
+}
+.par{
+text-align: start;
+}
+/* FOOTER */
+footer{
+  text-align: center;
+  font-size: 15px;
+  background: #3d2c8b;
+}
+svg{
+  margin-right:10px;
+}
