@@ -1,2 +1,2 @@
 # Proiect-Final
-Site de programari la stomatologie. tehnologiile utilizate sunt HTML CSS JAVASCRIPT si BOOTSTRAP. Stoia David
+Site de programari la stomatologie. Tehnologiile utilizate sunt HTML, CSS, JAVASCRIPT si BOOTSTRAP. Stoia David
