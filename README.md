@@ -1,2 +1,4 @@
 # Proiect-Final
-Site de programari la stomatologie. Tehnologiile utilizate sunt HTML, CSS, JAVASCRIPT si BOOTSTRAP. Stoia David
+Numele proiectului: Dentalux-site de programari la stomatologie in care am implementat si o sectiune cu informatii despre Stomatologia Dentalux. 
+Tehnologiile utilizate sunt HTML, CSS, JAVASCRIPT si BOOTSTRAP.
+Stoia David
